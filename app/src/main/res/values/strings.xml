@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cipso</string>
+    <string name="login_email">Type your e-mail</string>
+    <string name="login_phoneNumber">Type your phone number</string>
+    <string name="login_pass">Type a password</string>
+    <string name="login_btnRegisterText">Register</string>
+    <string name="login_btnLoginText">Login</string>
+    <string name="login_name">Type your name</string>
+    <string name="login_surname">Type your surname</string>
+    <string name="login_welcomeString">Welcome to Cipso!</string>
+    <string name="login_textForRegister">You don\'t have account? Register Here.</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="confirm_btnConfirm">"Confirm"</string>
+    <string name="confirm_information">"Please write down the code"</string>
+    <string name="confirm_hint">Here the code</string>
+    <string name="add_person">Add person</string>
+    <string name="sign_Out">Sign Out</string>
+</resources>

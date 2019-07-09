@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066042622181",
+    "firebase_url": "https://cipso-6b359.firebaseio.com",
+    "project_id": "cipso-6b359",
+    "storage_bucket": "cipso-6b359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066042622181:android:86fcad192e524502",
+        "android_client_info": {
+          "package_name": "com.example.cipso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066042622181-8nhk8m2laprjhm15muc4rds1m0itmpio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cipso",
+            "certificate_hash": "ee469828f7e0af077d38426aeb3d460d7d7e74e4"
+          }
+        },
+        {
+          "client_id": "1066042622181-81rg0knjmjl6peu6edu5s52mu6rf4u37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnomQQluuCAm4_lTG_Z1V30Dm4jiE52k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066042622181-81rg0knjmjl6peu6edu5s52mu6rf4u37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
