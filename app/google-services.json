@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1066042622181-8j4nrqg4uaf35rko0j0eqi6vhaaj4hop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cipso",
+            "certificate_hash": "4aa537370135153c1ff59c1bf1a8ecdbf7798384"
+          }
+        },
+        {
           "client_id": "1066042622181-8nhk8m2laprjhm15muc4rds1m0itmpio.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

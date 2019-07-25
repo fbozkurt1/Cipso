@@ -162,7 +162,6 @@ public class HomeActivity extends AppCompatActivity {
     }
 
     public static Intent newIntent(Activity callerActivity){
-        Intent intent=new Intent(callerActivity, HomeActivity.class);
-        return intent;
+        return new Intent(callerActivity, HomeActivity.class);
     }
 }
